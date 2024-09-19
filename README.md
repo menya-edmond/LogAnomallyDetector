@@ -1,2 +1,2 @@
-# BertGist
- Our reproducibility for HungerGist  multi-task deep learning model that can both predict and interpret data associated with food insecurity
+# LogAnomallyDetector
+Detecting logs of interest with relation to bad nodes in a computer network using LLMs
